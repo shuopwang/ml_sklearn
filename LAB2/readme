@@ -1,0 +1,11 @@
+In the lab2, I use the dataset from the sklearn. (breast-canser)  
+I try to hand make the majority classifier and the logistic regression.  
+
+I could find that using the majorty classification, I could get the accuracy is 62%  
+It's quite normal, because, I find that the the dataset have 212 of negation 357 of positive.  
+
+In the second algorithm, I choose the logistic regression. By default, the max iteration is 10000, the learning rate alpha is 0.1  
+
+In this case I use the cross validation, the accuracy is around 91.5%  
+
+But I find that the Logistic regression has around 94.5%, there is a lot need to improve. Maybe I could choose a better learning rate and the number of the iteration.  
